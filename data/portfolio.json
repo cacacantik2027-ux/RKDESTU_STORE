@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "category": "Foto",
+    "title": "Retouch Produk",
+    "image": "assets/img/portofolio-1.jpg",
+    "fallback": "linear-gradient(155deg,#0a5cff,#38d6ff)",
+    "price": "Rp15.000",
+    "label": "Terlaris",
+    "testimoni_link": ""
+  },
+  {
+    "id": 2,
+    "category": "Video",
+    "title": "Reels Promosi",
+    "image": "assets/img/portofolio-2.jpg",
+    "fallback": "linear-gradient(155deg,#0b1130,#0a3fc4)",
+    "price": "Rp50.000",
+    "label": "Promo",
+    "testimoni_link": ""
+  },
+  {
+    "id": 3,
+    "category": "Desain",
+    "title": "Poster Event",
+    "image": "assets/img/portofolio-3.jpg",
+    "fallback": "linear-gradient(155deg,#38d6ff,#0a5cff 70%,#0b1130)",
+    "price": "Rp25.000",
+    "label": "Baru",
+    "testimoni_link": ""
+  }
+]

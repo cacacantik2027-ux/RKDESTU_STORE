@@ -1,0 +1,32 @@
+[
+  {
+    "image": "assets/img/slide-1.jpg",
+    "fallback": "linear-gradient(155deg,#0a5cff,#38d6ff)",
+    "title": "Retouch Foto Produk",
+    "subtitle": "Bersih, tajam, siap upload — mulai Rp15.000/foto"
+  },
+  {
+    "image": "assets/img/slide-2.jpg",
+    "fallback": "linear-gradient(155deg,#0b1130,#0a3fc4)",
+    "title": "Editing Reels & Video Promosi",
+    "subtitle": "Cutting rapi + color grading — mulai Rp50.000/video"
+  },
+  {
+    "image": "assets/img/slide-3.jpg",
+    "fallback": "linear-gradient(155deg,#38d6ff,#0a5cff 70%,#0b1130)",
+    "title": "Poster & Feed Instagram",
+    "subtitle": "Desain konsisten untuk brand kamu — mulai Rp25.000"
+  },
+  {
+    "image": "assets/img/slide-4.jpg",
+    "fallback": "linear-gradient(155deg,#0a3fc4,#38d6ff)",
+    "title": "Logo & Identitas Visual",
+    "subtitle": "Identitas brand yang gampang dikenali"
+  },
+  {
+    "image": "assets/img/slide-5.jpg",
+    "fallback": "linear-gradient(155deg,#0b1130,#38d6ff 80%)",
+    "title": "Paket Kombinasi Konten",
+    "subtitle": "Foto + video + desain dalam satu paket hemat"
+  }
+]

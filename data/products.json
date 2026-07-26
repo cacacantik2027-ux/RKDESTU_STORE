@@ -1,0 +1,68 @@
+[
+  {
+    "id": "foto-retouch",
+    "category": "Foto",
+    "title": "Retouch & Cleanup Foto",
+    "desc": "Retouch, color grading, dan penyesuaian komposisi untuk hasil yang bersih dan konsisten.",
+    "image": "assets/img/produk-foto-1.jpg",
+    "fallback": "linear-gradient(155deg,#0a5cff,#38d6ff)",
+    "price": "Rp15.000",
+    "priceUnit": "/ foto",
+    "label": "Terlaris"
+  },
+  {
+    "id": "foto-kolase",
+    "category": "Foto",
+    "title": "Kolase / Album Digital",
+    "desc": "Susunan foto jadi album digital rapi untuk kenang-kenangan atau katalog.",
+    "image": "assets/img/produk-foto-2.jpg",
+    "fallback": "linear-gradient(155deg,#0b1130,#0a3fc4)",
+    "price": "Rp20.000",
+    "priceUnit": "/ album",
+    "label": ""
+  },
+  {
+    "id": "video-reels",
+    "category": "Video",
+    "title": "Editing Reels / Promosi",
+    "desc": "Cutting, transisi, sound design ringan, dan color grading untuk konten yang enak ditonton.",
+    "image": "assets/img/produk-video-1.jpg",
+    "fallback": "linear-gradient(155deg,#0b1130,#0a3fc4)",
+    "price": "Rp50.000",
+    "priceUnit": "/ video",
+    "label": "Promo"
+  },
+  {
+    "id": "video-cinematic",
+    "category": "Video",
+    "title": "Cinematic Color Grading",
+    "desc": "Tone warna sinematik untuk video dokumentasi, event, atau konten personal.",
+    "image": "assets/img/produk-video-2.jpg",
+    "fallback": "linear-gradient(155deg,#0a3fc4,#38d6ff)",
+    "price": "Rp65.000",
+    "priceUnit": "/ video",
+    "label": ""
+  },
+  {
+    "id": "desain-poster",
+    "category": "Desain",
+    "title": "Poster & Feed Instagram",
+    "desc": "Logo, poster, dan aset visual untuk feed maupun kebutuhan promosi bisnis.",
+    "image": "assets/img/produk-desain-1.jpg",
+    "fallback": "linear-gradient(155deg,#38d6ff,#0a5cff 70%,#0b1130)",
+    "price": "Rp25.000",
+    "priceUnit": "/ desain",
+    "label": "Baru"
+  },
+  {
+    "id": "desain-logo",
+    "category": "Desain",
+    "title": "Logo & Identitas Visual",
+    "desc": "Logo dan panduan identitas visual sederhana untuk brand kamu.",
+    "image": "assets/img/produk-desain-2.jpg",
+    "fallback": "linear-gradient(155deg,#0b1130,#38d6ff 80%)",
+    "price": "Rp75.000",
+    "priceUnit": "/ logo",
+    "label": ""
+  }
+]
